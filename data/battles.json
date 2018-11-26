@@ -3,5 +3,5 @@
   {"id": 2, "name": "Battle at the Mummer's Ford", "attack_outcome": "win", "attackhouse": [229, 230, 231], "defendhouse": [16]},
   {"id": 3, "name": "Battle of Riverrun", "attack_outcome": "win", "attackhouse": [229, 230, 231], "defendhouse": [395]},
   {"id": 4, "name": "Battle of the Green Fork", "attack_outcome": "loss", "attackhouse": [362], "defendhouse": [229, 230, 231]},
-  {"id": 5, "name": "Battle of the Whispering Wood", "attack_outcome": "win", "attackhouse": [362, 395], "defendhouse": [229, 230, 231]},
+  {"id": 5, "name": "Battle of the Whispering Wood", "attack_outcome": "win", "attackhouse": [362, 395], "defendhouse": [229, 230, 231]}
 ]
