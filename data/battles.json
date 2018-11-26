@@ -1,5 +1,5 @@
 [
-  {"Id": 1, "name": "Battle of the Golden Tooth", "attack_outcome": "win", "attackhouse": [229, 230, 231], "defendhouse": [395]}
+  {"Id": 1, "name": "Battle of the Golden Tooth", "attack_outcome": "win", "attackhouse": [229, 230, 231], "defendhouse": [395]},
   {"Id": 2, "name": "Battle at the Mummer's Ford", "attack_outcome": "win", "attackhouse": [229, 230, 231], "defendhouse": [16]},
   {"Id": 3, "name": "Battle of Riverrun", "attack_outcome": "win", "attackhouse": [229, 230, 231], "defendhouse": [395]},
   {"Id": 4, "name": "Battle of the Green Fork", "attack_outcome": "loss", "attackhouse": [362], "defendhouse": [229, 230, 231]},
